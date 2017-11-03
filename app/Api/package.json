@@ -1,0 +1,19 @@
+{
+  "name": "jsconfregisterservice",
+  "version": "1.0.0",
+  "description": "Rest service to register participants ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bizagi",
+  "license": "ISC",
+  "dependencies": {
+    "Promise": "^1.0.5",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0",
+    "promise": "^8.0.1"
+  }
+}
